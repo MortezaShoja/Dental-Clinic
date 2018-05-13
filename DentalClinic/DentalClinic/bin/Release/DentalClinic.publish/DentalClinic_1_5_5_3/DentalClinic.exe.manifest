@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="DentalClinic.exe" version="1.5.5.3" publicKeyToken="c7a468dd0238e6ba" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="239.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="DentalClinic" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="DentalClinic.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.CrystalReports.Engine" version="10.2.3600.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.ShockwaveFlashObjects.dll" size="28672">
+      <assemblyIdentity name="AxInterop.ShockwaveFlashObjects" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>0gKpnCgVp3LU+NCPr3ipQrE7HMA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.WMPLib.dll" size="61440">
+      <assemblyIdentity name="AxInterop.WMPLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>2KVo6C9YE2o0b6UOLvu5zl5sNWo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DentalClinic.exe" size="2289664">
+      <assemblyIdentity name="DentalClinic" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>2f7zUSmXjJoOGjxBa+kZ10lgjq0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.ShockwaveFlashObjects.dll" size="32768">
+      <assemblyIdentity name="Interop.ShockwaveFlashObjects" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>fFIs53RTKqpoTaV3/kX7XGMBSHY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.WMPLib.dll" size="339968">
+      <assemblyIdentity name="Interop.WMPLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ICa2T7359qrNgm2IBtNcvQgDnsM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NTEXT.dll" size="7168">
+      <assemblyIdentity name="NTEXT" version="1.0.2415.20060" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>rSyok0i+hNzQtSQvHQh1NgXTmbw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="239.ico" size="25214">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>0YzaMJiWfkd5w4tkY8fDGajFloQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DentalClinic.exe.config" size="1632">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ILthUUEQkZ4W6u5Tk4b1s1fh91I=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Digitalboy\Morteza" issuerKeyHash="49f39ba669441df7f596240148c3a1337ec70cc3" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>gO+5piRi1jc0EDr//Mkz17yaM4o=</DigestValue></Reference></SignedInfo><SignatureValue>nmnLw+HGDjClYCy+pKKDVDXhwII4W4IFrpMLA5WIxHZRsBRpZl/jX01gGuaDhxAqLXGwSoTVJ7KmyKnui1/vXe9+iBOWp+m7PmOI3CbIcnJJCgLlXttRoHrN7JpsHscojZ9qLsti0JyFe0HnAG1kwlh0eGQy9QdyC5fdYHkp/vU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>32Bw1GYgco1YACTdk6qpJTWaHWmnTB1+HuWncNeooafffVgrkcrYCZXC1581Cto1IVVm2/S5tMQInKhcXYkO0v8vhT6cG1QiWkAZtZ37qD/neX42tSU3OhbYW8Lo0vGml3tTxZKeSZAklG1BEEBobnwtk5+b+TqJ/B+OFLlPKOU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="8a339abcd733c9fcff3a103437d66224a6b9ef80" Description="" Url=""><as:assemblyIdentity name="DentalClinic.exe" version="1.5.5.3" publicKeyToken="c7a468dd0238e6ba" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Digitalboy\Morteza</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>lK1uVIQRPunWmVqLBnvTBgj9iJ4=</DigestValue></Reference></SignedInfo><SignatureValue>B+xgWXfqGffAljudl9vE75k0xtv8sUKdl9nw+khxtaImr/ujTz/ySRTlVJy1WDnzosolfwIVW+v7G3p9tJrctOax3+I0LW3Ui63inhlErI7DTfrK4js8d23UXZ4W1IJTCGLqdEv/WyP2dmNaNEOXo0warUEf9ZQCGPt6m679H2Y=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>32Bw1GYgco1YACTdk6qpJTWaHWmnTB1+HuWncNeooafffVgrkcrYCZXC1581Cto1IVVm2/S5tMQInKhcXYkO0v8vhT6cG1QiWkAZtZ37qD/neX42tSU3OhbYW8Lo0vGml3tTxZKeSZAklG1BEEBobnwtk5+b+TqJ/B+OFLlPKOU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQSwzMMwsxYoNJVh6IOAZA5TANBgkqhkiG9w0BAQUFADAvMS0wKwYDVQQDHiQARABpAGcAaQB0AGEAbABiAG8AeQBcAE0AbwByAHQAZQB6AGEwHhcNMTAwNDEwMTEyNzIzWhcNMTEwNDEwMTcyNzIzWjAvMS0wKwYDVQQDHiQARABpAGcAaQB0AGEAbABiAG8AeQBcAE0AbwByAHQAZQB6AGEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAN9gcNRmIHKNWAAk3ZOqqSU1mh1pp0wdfh7lp3DXqKGn331YK5HK2AmVwtefNQraNSFVZtv0ubTECJyoXF2JDtL/L4U+nBtUIlpAGbWd+6g/53l+NrUlNzoW2FvC6NLxppd7U8WSnkmQJJRtQRBAaG58LZOfm/k6ifwfjhS5TyjlAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAPsrwjrermWl/5vHiu2n4n4guyChILoEb1A88up0GWmCJBRKWRUhrewrN3KbMKK5ikEf9C7DHgZYen9j5plD3oR1a7tN6qD6KCjC2pAqTUJk9YU/XspKUvl+QgDhVMTHU9LwMtG67j/WY/JAlSgLqvtK0QlOn+h4xJ1TTzATaHtQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

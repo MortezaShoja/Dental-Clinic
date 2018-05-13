@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>D:\Programing\VB.Net\My Project\Windows Application Projects\OLD\Clinic Project\DentalClinic\Clinic Manager 2010\|http://localhost/DentalClinic/</PublishUrlHistory>
+    <InstallUrlHistory>http://www.WorldConnectionSystem.com/</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+    <ReferencePath>D:\Program Files\Common Files\Business Objects\2.7\Managed\C:\Program Files\Common Files\Business Objects\2.7\Managed\</ReferencePath>
+    <ErrorReportUrlHistory />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+  </PropertyGroup>
+</Project>

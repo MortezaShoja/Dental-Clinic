@@ -1,0 +1,100 @@
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\bin\Release\DentalClinic.exe.config
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\Interop.WMPLib.dll
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\AxInterop.WMPLib.dll
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.vbproj.ResolveComReference.cache
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.exe
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.xml
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.pdb
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\bin\Release\DentalClinic.exe.manifest
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\bin\Release\DentalClinic.application
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\bin\Release\DentalClinic.exe
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\bin\Release\DentalClinic.pdb
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\bin\Release\DentalClinic.xml
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\bin\Release\NTEXT.dll
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\bin\Release\Interop.WMPLib.dll
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\bin\Release\AxInterop.WMPLib.dll
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\ResolveAssemblyReference.cache
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.DentalSplash.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmFindFamily.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmParent.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmPersonalTimes.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRegTiming.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmAmalkardeKoleDentist.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmFaktorEditor.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmFKGen.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRegKosoorat.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmLogin.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRegDentistName.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRegFaktor.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRegNoeKhadamat.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRegNoeTarefe.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRegTarefe.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRegUsers.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmReportViewer.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRptAmalkardeDentist.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRptAmalkard.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRptMorajein.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRptTarefe.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmPersonalInfo.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmInBox.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmTarefeEditor.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.Resources.resources
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\ResGen.read.1.tlog
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\ResGen.write.1.tlog
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.TrustInfo.xml
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.exe.manifest
+C:\Users\administrator\Desktop\Clinic Project\DentalClinic\DentalClinic\obj\Release\DentalClinic.application
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\bin\Release\DentalClinic.exe.config
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\Interop.ShockwaveFlashObjects.dll
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\Interop.WMPLib.dll
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\AxInterop.WMPLib.dll
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.vbproj.ResolveComReference.cache
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.exe
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.xml
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.pdb
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\bin\Release\DentalClinic.exe.manifest
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\bin\Release\DentalClinic.application
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\bin\Release\DentalClinic.exe
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\bin\Release\DentalClinic.pdb
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\bin\Release\DentalClinic.xml
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\bin\Release\NTEXT.dll
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\bin\Release\Interop.ShockwaveFlashObjects.dll
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\bin\Release\Interop.WMPLib.dll
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\bin\Release\AxInterop.WMPLib.dll
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\ResolveAssemblyReference.cache
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.DentalSplash.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmFindFamily.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmParent.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmPersonalTimes.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRegTiming.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmAmalkardeKoleDentist.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmFaktorEditor.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmFKGen.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRegKosoorat.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmLogin.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRegDentistName.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRegFaktor.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRegNoeKhadamat.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRegNoeTarefe.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRegTarefe.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRegUsers.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmReportViewer.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRptAmalkardeDentist.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRptAmalkard.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRptMorajein.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmRptTarefe.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmPersonalInfo.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmInBox.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.frmTarefeEditor.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.Resources.resources
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\ResGen.read.1.tlog
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\ResGen.write.1.tlog
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.TrustInfo.xml
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.exe.manifest
+D:\Programing\VB.Net 2010\Dental Clinic 2011\DentalClinic\DentalClinic\obj\Release\DentalClinic.application
